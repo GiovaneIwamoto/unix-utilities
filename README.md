@@ -40,7 +40,7 @@ While the project focuses on writing simple C programs, you can see from above t
 
 - To run the wunzip program, run the command `./wunzip [filename]`, where filename is the name of the file you want to decompress.
 
-To remove all executable files, run the command `make clean`.
+- To remove all executable files, run the command `make clean`.
 
 #### **AUTHOR**
 
