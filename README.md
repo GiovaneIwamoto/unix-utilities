@@ -6,8 +6,6 @@ A few different UNIX utilities, simple versions of commonly used commands like c
 
 ### **OBJECTIVES**
 
-- Familiarize with the C programming language.
-
 - Become familiar with a UNIX terminal/shell/command line.
 
 - Learn how to use an appropriate code editor such as emacs.
