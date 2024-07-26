@@ -6,12 +6,19 @@ A few different UNIX utilities, simple versions of commonly used commands like c
 
 [![Icons](https://skillicons.dev/icons?i=linux,ubuntu,debian,c&theme=dark)](https://skillicons.dev)
 
+---
+
 ### **OVERVIEW**
 
-The project includes the development of several individual .c files, each corresponding to a specific utility: wcat.c, wgrep.c, wzip.c, and wunzip.c. These utilities emulate the functionality of the traditional UNIX commands cat, grep, zip, and unzip. The cat command is used for concatenating and displaying file contents, grep for searching text using patterns, zip for compressing files, and unzip for decompressing them. Each utility is implemented as a separate C program, reflecting the core operations of these commonly used UNIX commands.
+> [!NOTE]
+> The project includes the development of several individual .c files, each corresponding to a specific utility: wcat.c, wgrep.c, wzip.c, and wunzip.c.
+
+These utilities emulate the functionality of the traditional UNIX commands cat, grep, zip, and unzip. The cat command is used for concatenating and displaying file contents, grep for searching text using patterns, zip for compressing files, and unzip for decompressing them. Each utility is implemented as a separate C program, reflecting the core operations of these commonly used UNIX commands.
 
 > [!IMPORTANT]
 > The programs are designed to compile with strict flags (-Wall and -Werror), ensuring code quality and robustness. By adhering to these stringent compilation standards, the project aims to provide a practical understanding of UNIX utility implementation, fostering proficiency in both C programming and UNIX system operations.
+
+---
 
 ### **INSTALLATION GUIDE**
 
@@ -30,9 +37,13 @@ Run the wunzip program `$ ./wunzip [filename]`, where filename is the name of th
 > [!TIP]
 > To remove all executable files and clean up the directory, run the command make clean. This will delete all the compiled binaries, ensuring that the directory is returned to its original state, free of any generated executable files.
 
+---
+
 ### **OBJECTIVES**
 
 The primary objectives of this project are to become familiar with the UNIX terminal, shell, and command line, to learn how to use a suitable code editor such as Emacs, and to gain an understanding of the basic implementation of UNIX utilities.
+
+---
 
 ### **AUTHOR**
 
